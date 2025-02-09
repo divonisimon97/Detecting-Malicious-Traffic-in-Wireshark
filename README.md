@@ -9,12 +9,16 @@ In this project, I use Wireshark to detect and inspect captured malicious traffi
 <h2>Languages and Utilities Used</h2>
 
 - <b>Wireshark</b> (4.4.3)
-- <b>Test HTTP Website</b> (http://testphp.vulnweb.com/login.php) 
+- <b>Malware Traffic Analysis</b> (https://malware-traffic-analysis.net/)
+- <b>VirusTotal</b> (https://www.virustotal.com/gui/home/upload)
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (24H2)
 - <b>PfSense</b> (Version 2.7.2)
+- <b>Ubuntu</b> (24.04.1 LTS)
+- <b>VirtualBox</b> (7.1.6)
+
 
 <h2>Program walk-through:</h2>
 
