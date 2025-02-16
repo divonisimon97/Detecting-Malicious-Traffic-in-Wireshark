@@ -27,11 +27,11 @@ Launch Wireshark: <br/>
 <img src="https://i.imgur.com/oxEMPCt.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
-Capture Traffic: <br/>
-<img src="https://i.imgur.com/yDTyAB4.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+Analyze the PCAP File in Wireshark & Apply Filters: <br/>
+<img src="https://i.imgur.com/INJhphb.png" height="80%" width="80%" alt="Analyzing PCAP File"/>
 <br />
 <br />
-Launch the Website & Enter Login Info: <br/>
+Investigate Suspicious IP Addresses on VirusTotal: <br/>
 <img src="https://i.imgur.com/inuqTYk.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
