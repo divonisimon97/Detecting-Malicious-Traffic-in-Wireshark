@@ -24,7 +24,7 @@ In this project, I use Wireshark to detect and inspect captured malicious traffi
 
 <p align="center">
 Launch Wireshark: <br/>
-<img src="https://i.imgur.com/oxEMPCt.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+<img src="https://i.imgur.com/oxEMPCt.png" height="80%" width="80%" alt="Launch Wireshark"/>
 <br />
 <br />
 Analyze the PCAP File in Wireshark & Apply Filters: <br/>
@@ -36,19 +36,11 @@ Select a Suspicious IP (Source & Destination): <br/>
 <br />
 <br />
 Investigate Suspicious IP Addresses on VirusTotal: <br/>
-<img src="https://i.imgur.com/24dWymM.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+<img src="https://i.imgur.com/24dWymM.png" height="80%" width="80%" alt="Investigate Suspicious IP"/>
 <br />
 <br />
 Analyze TCP Streams for Malicious Behavior:  <br/>
 <img src="https://i.imgur.com/6mLE6LQ.png" height="80%" width="80%" alt="Analyze TCP Streams"/>
-<br />
-<br />
-Locate HTTP POST request: <br/>
-<img src="https://i.imgur.com/baJPWiA.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
-<br />
-<br />
-Open HTML Form URL Encoded & Extract Login Credentials:  <br/>
-<img src="https://i.imgur.com/RLhXII5.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
 </p>
