@@ -31,12 +31,16 @@ Analyze the PCAP File in Wireshark & Apply Filters: <br/>
 <img src="https://i.imgur.com/INJhphb.png" height="80%" width="80%" alt="Analyzing PCAP File"/>
 <br />
 <br />
+Select a Suspicious IP (Source & Destination): <br/>
+<img src="https://i.imgur.com/F0nD9lu.png" height="80%" width="80%" alt="Select a Suspicious IP"/>
+<br />
+<br />
 Investigate Suspicious IP Addresses on VirusTotal: <br/>
-<img src="https://i.imgur.com/inuqTYk.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+<img src="https://i.imgur.com/24dWymM.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
-Filter and Inspect HTTP Traffic:  <br/>
-<img src="https://i.imgur.com/KTEkYrf.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+Analyze TCP Streams for Malicious Behavior:  <br/>
+<img src="https://i.imgur.com/6mLE6LQ.png" height="80%" width="80%" alt="Analyze TCP Streams"/>
 <br />
 <br />
 Locate HTTP POST request: <br/>
