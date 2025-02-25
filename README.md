@@ -24,7 +24,7 @@ In this project, I use Wireshark to detect and inspect captured malicious traffi
 
 <p align="center">
 Launch Wireshark: <br/>
-<img src="https://i.imgur.com/oxEMPCt.png" height="80%" width="80%" alt="Launch Wireshark"/>
+<img src="https://i.imgur.com/G1pxt2t.png" height="80%" width="80%" alt="Launch Wireshark"/>
 <br />
 <br />
 Analyze the PCAP File in Wireshark & Apply Filters: <br/>
