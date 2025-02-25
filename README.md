@@ -24,23 +24,23 @@ In this project, I use Wireshark to detect and inspect captured malicious traffi
 
 <p align="center">
 Launch Wireshark: <br/>
-<img src="https://i.imgur.com/G1pxt2t.png" height="80%" width="80%" alt="Launch Wireshark"/>
+<img src="https://i.imgur.com/eJ51pOW.png" height="80%" width="80%" alt="Launch Wireshark"/>
 <br />
 <br />
 Analyze the PCAP File in Wireshark & Apply Filters: <br/>
-<img src="https://i.imgur.com/INJhphb.png" height="80%" width="80%" alt="Analyzing PCAP File"/>
+<img src="https://i.imgur.com/inmq7Z5.png" height="80%" width="80%" alt="Analyzing PCAP File"/>
 <br />
 <br />
 Select a Suspicious IP (Source & Destination): <br/>
-<img src="https://i.imgur.com/F0nD9lu.png" height="80%" width="80%" alt="Select a Suspicious IP"/>
+<img src="https://i.imgur.com/46O5b0f.png" height="80%" width="80%" alt="Select a Suspicious IP"/>
 <br />
 <br />
 Investigate Suspicious IP Addresses on VirusTotal: <br/>
-<img src="https://i.imgur.com/24dWymM.png" height="80%" width="80%" alt="Investigate Suspicious IP"/>
+<img src="https://i.imgur.com/MOcUcQb.png" height="80%" width="80%" alt="Investigate Suspicious IP"/>
 <br />
 <br />
 Analyze TCP Streams for Malicious Behavior:  <br/>
-<img src="https://i.imgur.com/6mLE6LQ.png" height="80%" width="80%" alt="Analyze TCP Streams"/>
+<img src="https://i.imgur.com/Z9cjLEj.png" height="80%" width="80%" alt="Analyze TCP Streams"/>
 <br />
 <br />
 </p>
